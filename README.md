@@ -1,4 +1,10 @@
-## Hi there 👋
+## Melty-Blood
+
+<p align="center">
+Type-Moon
+<a href="https://github.com/melty-blood" target="_blank"><img src="https://count.getloli.com/@melty-blood?name=melty-blood&theme=rule34&padding=8&offset=0&align=top&scale=1.6&pixelated=1&darkmode=auto" alt="melty-blood"></a>
+
+</p>
 
 <!--
 **melty-blood/melty-blood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
